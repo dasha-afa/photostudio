@@ -1,0 +1,27 @@
+.about_card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 16px;
+    flex: 1 0 0;
+    align-self: stretch;
+}
+
+.about_img {
+    max-height: 350px;
+    width: 100%;
+}
+
+.about_p {
+    text-transform: uppercase;
+}
+
+.about_card_reverse {
+    flex-direction: column-reverse;
+}
+
+@media (max-width: 1150px) {
+    .about_card_reverse {
+        flex-direction: column;
+    }
+}

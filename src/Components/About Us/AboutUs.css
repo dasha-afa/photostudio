@@ -1,0 +1,7 @@
+.about_cards_container {
+    display: flex;
+    align-items: flex-start;
+    gap: 56px;
+    flex: 1 0 0;
+    flex-wrap: wrap;
+}
