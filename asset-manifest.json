@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/photostudio/static/css/main.e964a59e.css",
+    "main.js": "/photostudio/static/js/main.dd39762f.js",
+    "static/js/787.452fd721.chunk.js": "/photostudio/static/js/787.452fd721.chunk.js",
+    "static/media/Rectangle17.png": "/photostudio/static/media/Rectangle17.15b4655a78ed742ea674.png",
+    "static/media/photo_girl_field.png": "/photostudio/static/media/photo_girl_field.e3a812c4b088166e7751.png",
+    "index.html": "/photostudio/index.html",
+    "main.e964a59e.css.map": "/photostudio/static/css/main.e964a59e.css.map",
+    "main.dd39762f.js.map": "/photostudio/static/js/main.dd39762f.js.map",
+    "787.452fd721.chunk.js.map": "/photostudio/static/js/787.452fd721.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e964a59e.css",
+    "static/js/main.dd39762f.js"
+  ]
+}
